@@ -19,7 +19,7 @@ A simple landing page - Agency. 📚
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Agency | Home](https://ralph2308s.github.io/agency/)
+- [Home | Agency](https://ralph2308s.github.io/agency/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
