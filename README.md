@@ -13,20 +13,13 @@ A simple landing page - Agency. 📚
     <li>CSS</li>
   </ul>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- [x] **Display Planet's data**
-- [x] **Medium fidelity design**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Project Demo](https://nasirkhan294.github.io/planet-table/)
+- [Agency | Home](https://ralph2308s.github.io/agency/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -39,7 +32,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-git clone git@github.com:Nasirkhan294/planet-table.git
+git clone git@github.com:ralph2308s/agency.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,7 +79,7 @@ Please support this project and be a part of something meaningful and impactful.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to express my sincere gratitude to [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) for this design.
+I would like to express my sincere gratitude to [Ilham Meidi](https://www.figma.com/community/file/1111574687815835839) for this design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
